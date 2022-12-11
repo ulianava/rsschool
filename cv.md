@@ -5,6 +5,7 @@
 * **tel.** +380682577708
 * **e-mail** uliana.averianova@gmail.com
 * **GitHub:** [ulianava](https://github.com/ulianava)
+
 ## About me
 I am 25 years old and currently working as a hotel manager. 
 In general, I'm a hotelier turned front-end developer.  I'm a very determined person and have achieved success in my career.
@@ -26,3 +27,11 @@ function multiply (a, b) {
 return a * b
 }
 ```
+## Experience
+* Hillel Front-End Basic \
+[Hlegas](https://ulianava.github.io/)
+ 
+ ##Languages
+ *English* - B2
+ *German* - A2
+ *Russian* - native
