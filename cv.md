@@ -20,3 +20,9 @@ Also, as a hotel worker, I reached a lot of soft skills, such as sociability and
 6. Bootstrap 
 7. Figma 
 
+## Code Example
+```
+function multiply (a, b) {
+return a * b
+}
+```
