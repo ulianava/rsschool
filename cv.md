@@ -17,4 +17,6 @@ Also, as a hotel worker, I reached a lot of soft skills, such as sociability and
 3. JavaScript (in process) 
 4. GitHub
 5. IDE: VS code
+6. Bootstrap 
+7. Figma 
 
