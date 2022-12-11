@@ -1,1 +1,1 @@
-[ulianava.github.io](https://ulianava.github.io/rsschool-cv/cv)
+[ulianava.github.io/rsschool-cv/cv](https://ulianava.github.io/rsschool-cv/cv)
