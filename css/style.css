@@ -3,7 +3,6 @@
     font-weight: 300;
     font-family: 'Ubuntu', sans-serif;  
     color: #161616;
-   
 }
 .nav-section{
     display: flex;
@@ -38,17 +37,13 @@
 .my-photo{
     width: 255px;
 }
-
+.contacts-list{
+    list-style: none;
+    padding-left: 10px;
+}
 .main-content-section{
     background-color: #baf7ff26;
-    
 }
-.my-work-experience-section{
-}
-.my-education-section{
-}
-/* Sidebar section */
-
 .sidebar-section{
     background-color:  #ffeb3b66;
     width: 295px;
